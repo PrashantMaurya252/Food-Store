@@ -61,3 +61,7 @@ body{
 .dishPrice{
   color:rgb(177, 177, 72) ;
 }
+
+.dishName{
+  text-transform: capitalize;
+}
